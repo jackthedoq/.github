@@ -1,6 +1,6 @@
 # Capstone Project for DicodingXDBSFoundation 2025
 
-![Website Preview](-)
+![Website Preview](https://github.com/user-attachments/assets/e55d825c-7277-48d2-aef4-b19e8d6d8971)
 
 Front-End Web and Back-End Web
 
@@ -21,7 +21,8 @@ Front-End Web and Back-End Web
 
 #### Members
 
-![Team Members](-)
+![Team Members](https://github.com/user-attachments/assets/97c986ad-808c-462e-bb26-5a3e459112a9)
+
 
 | Name | Student ID | Role | LinkedIn | Github |
 | :------------------ | :------------- | :------------------ | :------------------ | :------------------ |
